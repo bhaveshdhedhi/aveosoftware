@@ -1,6 +1,6 @@
 # aveosoftware
 
-Download folder aveosoftware foler.
+Download folder aveosoftware.
 
 Put folder in htdocs in xampp and www in wamp
 
